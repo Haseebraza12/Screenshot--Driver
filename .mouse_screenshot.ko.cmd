@@ -1,0 +1,1 @@
+savedcmd_/home/haseeb/Desktop/Driver_Os/mouse_screenshot.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/haseeb/Desktop/Driver_Os/mouse_screenshot.ko /home/haseeb/Desktop/Driver_Os/mouse_screenshot.o /home/haseeb/Desktop/Driver_Os/mouse_screenshot.mod.o
